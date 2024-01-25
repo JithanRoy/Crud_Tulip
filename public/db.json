@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doeee",
+      "dob": "1990-05-15",
+      "address": "123 Main Street, Cityville, USA"
+    },
+    {
+      "id": "2",
+      "name": "jithan roy",
+      "dob": "12",
+      "address": "dasdasd"
+    },
+    {
+      "id": "3",
+      "name": "hello",
+      "dob": "12-2-53",
+      "address": ""
+    },
+    {
+      "id": "4",
+      "name": "wewe roy",
+      "dob": "wewe",
+      "address": "ww"
+    },
+    {
+      "id": "7",
+      "name": "Shamim islam",
+      "dob": "12-2-1997",
+      "address": "badda"
+    },
+    {
+      "id": "8",
+      "name": "Jithan TulipTech",
+      "dob": "12-5-1995",
+      "address": "Uttar Badda"
+    },
+    {
+      "id": "6",
+      "name": "majidul Islam",
+      "dob": "12-4-1998",
+      "address": "Uttar Badda"
+    }
+  ]
+}
